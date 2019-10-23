@@ -16,7 +16,7 @@
 因为全面屏时代的到来，我们怀揣的手机都将成为传统手机。\r\n
 ```
 
-![image](https://github.com/MingDuoLin/News-speech-extraction/blob/master/images/AutoSummarization.png)
+![image](https://github.com/MingDuoLin/Automatic-text-summarization/blob/master/images/AutoSummarization.png)
 
 ### Background
 
